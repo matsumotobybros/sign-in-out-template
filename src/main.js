@@ -9,7 +9,7 @@ import store from './store'
 Vue.use(Vuelidate)
 
 //axios global config
-axios.defaults.baseURL = 'https://bros-23c2b.firebaseio.com/';
+axios.defaults.baseURL = '';
 // axios.defaults.headers.common['Authorization'] = 'fasfdsa';
 axios.defaults.headers.get['Accepts'] = 'application/json';
 

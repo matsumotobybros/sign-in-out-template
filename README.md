@@ -8,6 +8,12 @@
 # install dependencies
 npm install
 
+# set api key
+store.js
+
+# set axios baseURL(firebase)
+main.js
+
 # serve with hot reload at localhost:8080
 npm run dev
 

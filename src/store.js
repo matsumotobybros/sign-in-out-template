@@ -6,7 +6,7 @@ import globalAxios from 'axios';
 import router from './router';
 
 Vue.use(Vuex)
-const apiKey = 'AIzaSyD7tPv885GAGMAk-ZQbWp9_kfr7_SpQ3Rk';
+const apiKey = '';
 export default new Vuex.Store({
   state: {
     idToken: null,
